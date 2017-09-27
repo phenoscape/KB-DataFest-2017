@@ -50,7 +50,7 @@ Everyone participating in the event must agree to adhere to its [Code of Conduct
 ## Scope
 
 We are keeping the scope into which work targets at the event are expected to
-fall intentionally broad, so as not to limit participants' ideas apriori.
+fall intentionally broad, so as not to limit participants' ideas *a priori*.
 That said, we generally expect work targets to use data and/or the
 computational services of Phenoscape's online resources (see [About the KB]
 below) in some way, whether through available APIs or not. 
@@ -101,7 +101,7 @@ mouse), and to human genetic disease phenotypes.
 For query answering the KB uses machine reasoning to match data by its
 semantics. The API also gives access to other machine reasoning-based
 algorithms. These include synthesizing characters and states that are implied
-by but not expressly asserted in the original studies; and finding evolutionary
+by, but not expressly asserted, in the original studies; and finding evolutionary
 phenotype transitions semantically similar to gene phenotypes.
 
 Further details, including relevant publications, KB data model, and API
