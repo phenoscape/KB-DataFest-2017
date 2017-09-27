@@ -1,0 +1,29 @@
+
+                      Call for Participation:
+
+   Computable evolutionary phenotype knowledge: a hands-on workshop
+
+
+The Phenoscape (http://phenoscape.org) project is hosting a hands-on workshop
+on Dec 11-14, 2017, at Duke University in Durham, North Carolina.
+
+Evolutionary phenotype data that is amenable to computational data science,
+including computation-driven discovery, remains relatively new to science.
+Therefore use-cases and applications that effectively exploit these new
+capabilities are only beginning to emerge. If you are interested in
+discovering, linking to, recombining, or computing with machine-interpretable
+evolutionary phenotypes, this is the workshop for you! 
+
+The event will bring together a diverse group of people to collaboratively
+design and work hands-on on targets of their interest that take advantage and
+promote reuse of [Phenoscape]'s online evolutionary data resources and
+services. The event is designed as a hands-on unconference-style workshop.
+Participants will break into subgroups to collaboratively tackle self-selected
+work targets.
+
+The full Call for Participation, including motivation and scope, is posted
+here: https://hackmd.io/s/Sk6Xa7Eq-#
+
+To apply to participate in the event, please fill out the following form
+by Oct 9, 2017: <https://goo.gl/tt18gR>
+Travel sponsorship is available but limited, as is space. 
