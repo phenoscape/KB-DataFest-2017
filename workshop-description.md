@@ -56,7 +56,7 @@ effectively exploit the new capabilities are only beginning to
 emerge. To foster broader adoption, reuse, and interoperability of the
 data in the KB, as well as the machine reasoning capabilities it
 implements, Phenoscape is holding a KB Data and Interoperability
-Codefest. The event will take place Nov 7-10, 2017, at Duke University
+Codefest. The event will take place Dec 11-14, 2017, at Duke University
 in Durham, North Carolina, and aims to bring together a diverse group
 of data scientists, developers, and others interested in
 trait-oriented data sets, tools and resources.
